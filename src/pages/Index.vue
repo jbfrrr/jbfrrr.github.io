@@ -28,9 +28,9 @@
 
 <script>
 export default {
-  //metaInfo: {
-  //  title: ''
-  //}
+  metaInfo: {
+    title: 'Home'
+  }
 }
 </script>
 
